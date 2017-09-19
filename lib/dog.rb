@@ -1,9 +1,6 @@
 class Dog
-  def names
-    
-  @fido = fido
-  @snoopy = snoopy
-  @lassie = lassie
-end 
+end
 
-
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
