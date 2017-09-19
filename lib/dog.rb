@@ -1,5 +1,5 @@
-class Dog 
+class: Dog
   fido
   snoopy
-  lassie 
-end 
+  lassie
+end
